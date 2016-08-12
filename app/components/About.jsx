@@ -15,7 +15,11 @@ var React = require('react');
 //Use this method when function only renders and is a "StateLess Functional Component"
 var About = (props) => {
   return(
-      <h3>About Component</h3>
+      <div>
+        <h3>About</h3>
+        <p>This is simple Weather Detection Application</p>
+      </div>
+      </div>
   )
 };
 
