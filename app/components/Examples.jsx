@@ -17,13 +17,11 @@ var Examples = (props) => {
     return (
         <div>
             <h3>Examples</h3>
-            <p>
-                <ul>
-                    <li>Click on Get Weather</li>
-                    <li>Enter the City Name</li>
-                    <li>Click on Search</li>
-                </ul>
-            </p>
+            <ul>
+                <li>Click on Get Weather</li>
+                <li>Enter the City Name</li>
+                <li>Click on Search</li>
+            </ul>
         </div>
     )
 };
