@@ -20,8 +20,8 @@ var Main = React.createClass({
 var Main = (props) => {
   return(
     <div>
-      <h2>Main Components</h2>
       <Nav/>
+      <h2>Main Components</h2>
       {props.children}
     </div>
   );
