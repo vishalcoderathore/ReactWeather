@@ -17,7 +17,7 @@ var Examples = React.createClass({
 var Examples = (props) => {
     return (
         <div>
-            <h3 className="text-center">Examples</h3>
+            <h1 className="text-center page-title">Examples</h1>
             <ul>
                 <li>Click on Get Weather</li>
                 <li>Enter the City Name</li>
