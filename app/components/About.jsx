@@ -23,10 +23,10 @@ var About = (props) => {
         </p>
         <ul>
           <li>
-            <a href = "https://facebook.github.io/react">React</a> - This was the Javascrit framework used.
+            <a href = "https://facebook.github.io/react" target="_blank">React</a> - This was the JavaScript library used.
           </li>
           <li>
-            <a href = "https://openweathermap.org">Open Weather Map</a> - API is Open Weather Map to search for weather data by city.
+            <a href = "https://openweathermap.org" target="_blank">Open Weather Map</a> - API is Open Weather Map to search for weather data by city.
           </li>
         </ul>
       </div>
